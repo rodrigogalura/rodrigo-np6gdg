@@ -1,0 +1,8 @@
+{
+  "name": "Rodrigo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "a571923d"
+}
